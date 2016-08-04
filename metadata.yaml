@@ -1,0 +1,33 @@
+_repo: The-Madman--His-Parables-and-Poems_5616
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gibran, Kahlil
+    alias: Gibran, Khalil
+    birthdate: 1883
+    deathdate: 1931
+    gutenberg_agent_id: '1813'
+    url: http://www.gutenberg.org/2009/agents/1813
+    wikipedia: http://en.wikipedia.org/wiki/Kahlil_Gibran
+description: Kahlil Gibran (born January 6, 1883 in Bsharri, modern day Lebanon, which
+  was part of Ottoman controlled Syria at the time; died April 10, 1931 in New York
+  City, United States) was a Lebanese American artist, poet, writer, philosopher and
+  theologian. He is the third-bestselling poet in history after William Shakespeare
+  and Laozi. Much of Gibran's writings deal with Christianity, especially on the topic
+  of spiritual love. His poetry is notable for its use of formal language, as well
+  as insights on topics of life using spiritual terms. [Adapted from http://en.wikipedia.org/wiki/Kahlil_Gibran].
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parables'
+- !lcc 'PS'
+- !lcsh 'Mysticism -- Poetry'
+- GITenberg
+title: 'The Madman: His Parables and Poems'
+url: http://www.gutenberg.org/ebooks/5616
