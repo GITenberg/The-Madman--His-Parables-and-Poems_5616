@@ -1,5 +1,8 @@
 _repo: The-Madman--His-Parables-and-Poems_5616
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gibran, Kahlil
@@ -16,6 +19,8 @@ description: Kahlil Gibran (born January 6, 1883 in Bsharri, modern day Lebanon,
   and Laozi. Much of Gibran's writings deal with Christianity, especially on the topic
   of spiritual love. His poetry is notable for its use of formal language, as well
   as insights on topics of life using spiritual terms. [Adapted from http://en.wikipedia.org/wiki/Kahlil_Gibran].
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5616#The-Madman--His-Parables-and-Poems
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
