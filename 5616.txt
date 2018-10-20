@@ -789,7 +789,7 @@ And to be grasped is but to reach one's fullness
 And like a ripe fruit to fall and be consumed.
 
 Defeat, my Defeat, my bold companion,
-You shall hear my songs and my cries an my silences,
+You shall hear my songs and my cries and my silences,
 And none but you shall speak to me of the beating of wings,
 And urging of seas,
 And of mountains that burn in the night,
@@ -836,7 +836,7 @@ by burning ships at sea, and my lips are wet with blood of slain
 warriors."
 
 "Nay, thou art not like me, O, Madman; for the desire for a
-sister-spirit is yet upon thee, and thou has not become a low unto
+sister-spirit is yet upon thee, and thou has not become alone unto
 thyself."
 
 "I am like thee, O, Night, joyous and glad; for he who dwells in
@@ -844,7 +844,7 @@ my shadow is now drunk with virgin wine, and she who follows me is
 sinning mirthfully."
 
 "Nay, thou art not like me, O, Madman, for thy soul is wrapped in
-the veil of seven folds and thou holdest not they heart in thine
+the veil of seven folds and thou holdest not thy heart in thine
 hand."
 
 "I am like thee, O, Night, patient and passionate; for in my breast
